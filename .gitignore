@@ -1,0 +1,6 @@
+.venv
+firebase-credentials.json
+.env
+.vscode
+__pycache__
+videos
